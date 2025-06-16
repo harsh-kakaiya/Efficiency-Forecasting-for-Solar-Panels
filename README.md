@@ -1,4 +1,4 @@
-# Efficiency-Forecasting-for-Solar-Panels
+# Solar Panel Efficiency Prediction
 This project focuses on developing a machine learning model to predict solar panel efficiency using historical and real-time sensor data. The goal is to enable predictive maintenance and optimize energy output by forecasting potential performance degradation.
 
 ## Approach
